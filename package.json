@@ -1,0 +1,31 @@
+{
+  "name": "pe-machine-type-descriptor",
+  "version": "0.0.1",
+  "description": "Get name and description of PE machine types",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~4.6.3"
+  },
+  "repository": "vweevers/pe-machine-type-descriptor",
+  "bugs": "https://github.com/vweevers/pe-machine-type-descriptor/issues",
+  "homepage": "https://github.com/vweevers/pe-machine-type-descriptor",
+  "keywords": [
+    "executable",
+    "pe",
+    "pe-coff",
+    "portable-executable",
+    "windows"
+  ],
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=2.0.0"
+  }
+}
