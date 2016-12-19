@@ -1,6 +1,6 @@
 {
   "name": "pe-machine-type-descriptor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get name and description of PE machine types",
   "license": "MIT",
   "author": "Vincent Weevers",
