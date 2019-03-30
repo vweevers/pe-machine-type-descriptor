@@ -12,7 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tape": "~4.6.3"
+    "tape": "~4.10.1"
   },
   "repository": "vweevers/pe-machine-type-descriptor",
   "bugs": "https://github.com/vweevers/pe-machine-type-descriptor/issues",
